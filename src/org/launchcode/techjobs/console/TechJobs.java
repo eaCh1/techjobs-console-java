@@ -130,4 +130,5 @@ public class TechJobs {
           System.out.println("Sorry, your search returned zero results. Try again.");
       }
     }
+
 }
